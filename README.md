@@ -48,9 +48,9 @@ I reccomend going to the kindle direct publishing website (https://kdp.amazon.co
 
 Upload our docx file, then click "Preview". Look at all the new sections you added and make sure they look good, that your links work, etc. You should go through the following checklist: 
 
-    1. Did I add a table of contents entry and a link from that entry to my fact
-    2. Does my fact look good? Are there any formatting errors? Did images get uploaded and displayed properly?
-    3. Do all my footnotes work? Click each to make sure they work properly (Clicking the foonote should deep link you to the footnote description, and then clicking the footnote link from the foot note should link you back). 
+1. Did I add a table of contents entry and a link from that entry to my fact
+2. Does my fact look good? Are there any formatting errors? Did images get uploaded and displayed properly?
+3. Do all my footnotes work? Click each to make sure they work properly (Clicking the foonote should deep link you to the footnote description, and then clicking the footnote link from the foot note should link you back). 
     
 
 
