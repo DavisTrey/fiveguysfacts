@@ -1,5 +1,10 @@
 # fiveguysfacts
 
+# Reqirements
+You will need:
+
+1. Microsoft word
+2. The ability to issue commands from a command line
 
 # EDITING THE DOCUMENT
 First, you need to do the following 1 time only:
