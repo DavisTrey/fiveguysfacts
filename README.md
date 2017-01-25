@@ -25,7 +25,13 @@ Now you can edit the .docx file. When you are ready to commit your changes (comm
 
 Yay! Now, if you want to make more changes in the future, just restart from the beginning of the second set of instructions. 
 
+## Layout
+KEEP FACTS IN THEIR ORDER FROM MEDIUM. DO not, do not, do not ever insert a fact outside of its relative order. I'm okay with you skipping a few facts so long as relative order is maintained (i.e. if facts 1-6 are in the doc, and you want to add fact 10 to the end, that is fine). 
+
 # FORMATTING
+## PAGE BREAKS
+ALWAYS add a page break when adding a new fact. There should be a page break between all facts. You can do this by going to the end of the previous fact, clicking insert -> pagebreak. 
+
 ## Text Size
 Use font size 20 for headers (title of each fact). Use size 16 for sub-headings within a fact. Use size 12 for all regular text. 
 
