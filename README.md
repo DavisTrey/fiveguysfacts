@@ -63,6 +63,7 @@ Upload our docx file, then click "Preview". Look at all the new sections you add
 2. Does my fact look good? Are there any formatting errors? Did images get uploaded and displayed properly?
 3. Do all my footnotes work? Click each to make sure they work properly (Clicking the foonote should deep link you to the footnote description, and then clicking the footnote link from the foot note should link you back). 
 4. Did I add a pagebreak for each of my new facts?
+5. Is my fact in the right relative order?
     
 
 
